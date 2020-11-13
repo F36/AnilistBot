@@ -7,6 +7,10 @@
     "author": "https://github.com/Fazendaaa/",
     "description": "A new code base to Anilist bot in Telegram.",
     "homepage": "https://github.com/Fazendaaa/AnilistBot#readme",
+    "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+    },
     "bugs": {
         "url": "https://github.com/Fazendaaa/AnilistBot/issues"
     },
